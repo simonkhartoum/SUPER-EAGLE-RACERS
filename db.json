@@ -1,0 +1,125 @@
+{
+    "bikes": [
+        {
+            "id": 1,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/e7.28.1d.3814.png",
+            "manufacturer": "YAMAHA",        
+            "model": "YZF-R3 - RH12",
+            "driver": "JOHNNY",
+            "mileage": "300 kms",
+            "appearance": "blue & black"
+
+        },
+          {
+            "id": 2,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/c9.00.80.1990.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R 125 - RE06",
+            "driver": "DAVE",
+            "mileage": "350 kms",
+            "appearance": "blue & silver"
+
+        },
+          {
+            "id": 3,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/a8.76.7e.1743.png",
+            "manufacturer": "YAMAHA",            
+            "model": "YZF-R1 - RN012",
+            "driver": "DUNCAN",
+            "mileage": "200 kms",
+            "appearance": "yellow & black"
+
+        },
+        {
+            "id": 4,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/4f.c6.14.3548.png",
+            "manufacturer": "YAMAHA",            
+            "model": "YZF-R1M (EURO 4) - RN49/R1M",
+            "driver": "DOMINIC",
+            "mileage": "100 kms",
+            "appearance": "silver, blue & black"
+
+        },
+          {
+            "id": 5,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/43.33.92.4560.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R7 (EURO 5) - RM39/RM40",
+            "driver": "SIMIEON",
+            "mileage": "300 kms",
+            "appearance": "blue & black"
+
+        },
+          {
+            "id": 6,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/2f.dd.01.3550.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R6 (EURO 4) - RJ27",
+            "driver": "PATRICK",
+            "mileage": "200 kms",
+            "appearance": "blue, white & black"
+
+        },
+        {
+            "id": 7,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/be.58.1b.1739.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R6 - RJ111",
+            "driver": "DENNIS",
+            "mileage": "300 kms",
+            "appearance": "red, white & black"
+
+        },
+        {
+            "id": 8,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/82.93.5c.1085.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R6 - RJ051/091",
+            "driver": "QUAVO",
+            "mileage": "220 kms",
+            "appearance": "silver & black"
+
+        },
+        {
+            "id": 9,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/22.48.f0.1009.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R6 - RJ031/036",
+            "driver": "RAGNAR",
+            "mileage": "170 kms",
+            "appearance": "red & silver"
+
+        },
+        {
+            "id": 10,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/02.85.19.3864.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R1M (EURO 5) - RN65/R1M",
+            "driver": "FERNADES",
+            "mileage": "110 kms",
+            "appearance": "blue & black"
+
+        },
+        {
+            "id": 11,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/14.18.03.1744.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R1 SP - YZF-R1SP",
+            "driver": "THIAGO",
+            "mileage": "140 kms",
+            "appearance": "black"
+
+        },
+        {
+            "id": 12,
+            "image": "https://cdn2.louis.de/dynamic/bikedb/o_pad,w_300,h_300,ha_center,va_center,c_fff/d6.a0.e8.3263.png",
+            "manufacturer": "YAMAHA",
+            "model": "YZF-R1 - RN321",
+            "driver": "TARRUS",
+            "mileage": "140 kms",
+            "appearance": "yellow & black"
+
+        }
+      
+    ]
+  }
